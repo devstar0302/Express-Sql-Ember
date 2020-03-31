@@ -1,0 +1,32 @@
+{
+  "name": "ember-express-aql",
+  "version": "1.0.0",
+  "description": "ember app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortheworld2017/ember-express-sql.git"
+  },
+  "keywords": [
+    "ember",
+    "express",
+    "sql"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortheworld2017/ember-express-sql/issues"
+  },
+  "homepage": "https://github.com/fortheworld2017/ember-express-sql#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "sql": "^0.78.0"
+  }
+}
